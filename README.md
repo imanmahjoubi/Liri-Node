@@ -19,24 +19,6 @@ LIRI will do any of the below command when you enter them into the command line.
 
 Type in node liri.js to get the instructions on how to enter the commands correctly. So if you were to type the below command you'd get the last 20 tweets I created (There may not be 20 tweets for me I just created an account)
 
-Example for Twitter :-
-
-![picture](images/tweets.png)
-
-node liri.js my-tweets 'any name'
-
-Example for Spotify :-
-
-![picture](images/spotify.png)
-
-node liri.js spotify-this-song 'song name'
-
-Example for Movie :-
-
-![picture](images/Movie-this.png)
-
-node liri.js movie-this 'movie name'
-
 
 These are the npm packages I used and are needed to run the app
 
