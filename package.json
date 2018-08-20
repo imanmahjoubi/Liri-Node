@@ -1,0 +1,25 @@
+{
+  "name": "Liri-Node-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knazim667/Liri-Node-App.git"
+  },
+  "keywords": [],
+  "author": "Imanoutcha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knazim667/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/knazim667/Liri-Node-App#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "twit": "^2.2.11"
+  }
+}
